@@ -1,0 +1,7 @@
+---
+layout: blogpost
+title: 11 Years and It is Time to Post
+date: 2021-10-29
+categories: [general]
+---
+Well this is interesting - it has been over 11 years since I last put some thoughts together to make a post. Originally the blog started out as a way for me to collect thoughts and best practices that I wanted to keep in mind as I moved between jobs. Then as I moved into higher profile jobs and into management positions, I grew a little concerned about my public profile and took a step back. Once again, I feel that it is a good time to start collecting some of the learnings I have acquired over the last decade across industries and projects. I was part of the leadership team at Amazon managing Consumable retail (anything you would buy, consume, and buy again - for example toilet paper) in the middle of a pandemic, and earlier part of the leadership team responsible for shipping two video gaming titles in one of the world’s largest franchise (Call of Duty: Modern Warfare 3, and Call of Duty: Ghost). I have managed and worked with people across the globe. It has been an interesting 11 years. I have some time on my hands right now (this and future posts, like the posts below, tend to be written during down time between jobs) and I look forward to adding to this space. Some of these I’ll cross-post on LinkedIn, and others will remain tucked away on this blog for the interested reader or just my future self.

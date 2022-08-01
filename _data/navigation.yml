@@ -1,0 +1,23 @@
+main_nav_bar:
+  - title: "Home"
+    url: /
+  - title: "Personal"
+    url: /personal/
+  - title: "Professional"
+    url: /professional/cv
+    subnav:
+    - title: "Curriculum Vitae"
+      url: /professional/cv
+    - title: "Philosophy"
+      url: /professional/philosophy
+    - title: "Reading List"
+      url: /professional/reading_list
+    - title: "Book Review"
+      url: /professional/book/book_review
+    - title: "Blog"
+      url: /professional/blog/
+  - title: "Projects"
+    url: /projects/
+  - title: "Collections"
+    url: /collections/
+

@@ -1,0 +1,28 @@
+---
+layout: default
+include_header: true
+title: Professional Blog
+---
+
+<div class="posts">
+  {% for post in site.categories.blog %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <small>Originally posted, <span><i class="icon-clock"></i><time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></span><br/></small>
+
+      {% if post.content contains site.excerpt_separator %}
+        <div class="entry">
+          {{ post.excerpt }}
+        </div>
+        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+      {% else %}
+        {{ post.content }}
+      {% endif %}
+      
+      <br/>
+      <br/>
+      
+    </article>
+  {% endfor %}
+</div>

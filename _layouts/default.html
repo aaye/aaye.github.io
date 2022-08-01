@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width,maximum-scale=1">
+  <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  {% seo %}
+  {% include head-custom.html %}
+</head>
+
+<body>
+
+  <!-- NAVIGATION BAR -->
+  <nav class="navbar navbar-expand-md navbar-fixed-top aaye-navbar-outer">
+    <div class="aaye-navbar-inner">
+      <span class="navbar-brand abs aaye-navbar-title">Andrew Aye</span>
+      <button class="aaye-navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#aaye-main-navbar-collapse-id" aria-controls="aaye-main-navbar-collapse-id" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="aaye-navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse aaye-navbar-collapse" id="aaye-main-navbar-collapse-id">
+        <div class="navbar-nav ms-auto">
+          <!-- BEGINNING OF THE MENU -->
+          {% for item in site.data.navigation.main_nav_bar %}
+            {% if item.subnav %}
+              <div class="btn-group">
+            {% endif %}
+                
+            <span class="nav-item aaye-navbar-menu">
+            {% if item.url %}
+                <a class="nav-link aaye-navbar-menu" href="{{ item.url }}">{{ item.title }}</a>
+            {% else %}
+                <span class="nav-link aaye-navbar-menu">{{ item.title }}</span>
+            {% endif %}
+            </span>
+                
+            {% if item.subnav %}
+                <button type="button" class="btn dropdown-toggle dropdown-toggle-split ms-auto aaye-navbar-dropdown-menu-arrow" data-bs-toggle="dropdown" aria-expanded="false">
+                  <span class="visually-hidden">Toggle Dropdown</span>
+                </button>
+                <div class="dropdown-menu aaye-navbar-dropdown-menu">
+                  {% for subitem in item.subnav %}
+                    <div class="dropdown-item aaye-navbar-dropdown-item"><a class="dropdown-item aaye-navbar-menu-text" href="{{ subitem.url }}">{{ subitem.title }}</a></div>
+                  {% endfor %}
+                </div>
+              </div>
+            {% endif %}
+          {% endfor %}
+          <!-- END OF THE MENU -->
+        </div>
+      </div>
+    </div>
+  </nav>
+
+
+  <!-- HEADER -->
+  {% if page.include_header %}
+    <div class="aaye-header-outer">
+      <header class="aaye-header-inner">
+        {% if site.github.is_project_page %}
+          <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
+        {% endif %}
+
+        {% if page.title %}
+          <span class="aaye-header-title">{{ page.title }}</span>
+        {% else %}
+          <span class="aaye-header-title">{{ site.description | default: site.github.project_tagline }}</span>
+        {% endif %}
+      </header>
+    </div>
+  {% endif %}
+
+
+
+  <!-- MAIN CONTENT -->
+  <div class="aaye-main-outer">
+    <div class="aaye-main-inner">
+      {% if page.paragraph_no_space_after %}
+        <section class="aaye-main-cv-content">
+      {% else %}
+        <section class="aaye-main-content">
+      {% endif %}
+      {{ content }}
+      </section>
+    </div>
+  </div>
+
+
+
+  <!-- FOOTER  -->
+  <div class="aaye-outer aaye-footer">
+    <div class="aaye-inner">
+      <footer>
+        {% if site.github.is_project_page %}
+          <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Copyright &copy; 2001-2022 by Andrew Aye.<br>Published with <a href="https://pages.github.com">GitHub Pages</a></small></p>
+      </footer>
+    </div>
+  </div>
+
+
+
+  <!-- JAVA SCRIPT  -->
+  <script src="https://aaye.github.io/assets/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
