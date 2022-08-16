@@ -1,5 +1,7 @@
 ---
 layout: default
+include_header: true
+title: Professional - Book Review
 ---
 
 <div class="posts">
@@ -8,6 +10,8 @@ layout: default
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <small>Originally posted, <span><i class="icon-clock"></i><time datetime="{{post.date|date:"%F"}}">{{post.date|date:"%b %d, %Y"}}</time></span><br/></small>
+
+      <br/>
 
       {% if post.content contains site.excerpt_separator %}
         <div class="entry">

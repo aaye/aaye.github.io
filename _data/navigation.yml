@@ -19,5 +19,12 @@ main_nav_bar:
   - title: "Projects"
     url: /projects/
   - title: "Collections"
-    url: /collections/
+    url: /collections
+    subnav:
+    - title: "Lego"
+      url: /collections/lego
+    - title: "Pixar Teapots"
+      url: /collections/teapots
+    - title: "Figures"
+      url: /collections/figures
 
