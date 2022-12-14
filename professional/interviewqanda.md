@@ -9,6 +9,10 @@ paragraph_no_space_after: true
 
 <br/>
 
+This a a sample of standard interview questions that I have encountered. It makes sense for me to copy the crib-notes that I use during an interview and put them out here so that they are easily available to me, to potential interviewers, and as it may be useful to others for their own interview practice. I have specifically chosen questions that do not need specific work experience examples (or have omitted them) out of respect to those I have worked with in the past.
+
+<br/>
+
 <span style="color:blue">How do you **motivate your team**?</span>  
 - (Cribbing from Primed to Perform, and Creativity by Ed Catmull)  
   * Positive: <span style="color:orange">**Play**</span> (enjoy the work, fit), <span style="color:orange">**Purpose**</span> (value generation), <span style="color:orange">**Potential**</span> (future capability, growth)  
