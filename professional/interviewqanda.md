@@ -61,7 +61,7 @@ My job is to engage and negotiate with teams to always strive for win-win situat
 
 <br/>
 
-<span style="color:blue">How do you manage a **Low Performer**</span>  
+<span style="color:blue">How do you manage a **low performer**</span>  
 - Provide (or make sure direct manager is) <span style="color:orange">**consistent critical feedback and clarify expectations**</span>  
 - Check for <span style="color:orange">**externalities**</span> (personal, work fit, struggles)  
 - Does the person need <span style="color:orange">**support**</span> (person), <span style="color:orange">**training**</span> (improvement)  
@@ -69,14 +69,14 @@ My job is to engage and negotiate with teams to always strive for win-win situat
 
 <br/>
 
-<span style="color:blue">How do you manage someone with **High Potential**</span>  
+<span style="color:blue">How do you manage someone with **high potential**</span>  
 - <span style="color:orange">**More engagement**</span> (invest the most in HIPO)  
 - Provide <span style="color:orange">**growth opportunities**</span> and challenges  
 - <span style="color:orange">**Actively work**</span> on growth plan and execution.
 
 <br/>
 
-<span style="color:blue">How do you **Grow and Develop** you team membrs.</span>  
+<span style="color:blue">How do you **grow and develop** you team membrs.</span>  
 - The plan is a <span style="color:orange">**collaboration**</span> between myself and the report. Understand <span style="color:orange">**their goals**</span>.  
 - Compare <span style="color:orange">**ladder:**</span> <span style="color:orange">**gap**</span> plan, <span style="color:orange">**strength**</span> plan.  
 - Look to <span style="color:orange">**coach**</span> (self-actualization) and <span style="color:orange">**mentor**</span>.  
