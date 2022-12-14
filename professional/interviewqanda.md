@@ -78,7 +78,7 @@ My job is to engage and negotiate with teams to always strive for win-win situat
 
 <span style="color:blue">How do you **grow and develop** you team membrs.</span>  
 - The plan is a <span style="color:orange">**collaboration**</span> between myself and the report. Understand <span style="color:orange">**their goals**</span>.  
-- Compare <span style="color:orange">**ladder:**</span> <span style="color:orange">**gap**</span> plan, <span style="color:orange">**strength**</span> plan.  
+- Compare <span style="color:orange">**ladder**</span>: <span style="color:orange">**gap**</span> plan, <span style="color:orange">**strength**</span> plan.  
 - Look to <span style="color:orange">**coach**</span> (self-actualization) and <span style="color:orange">**mentor**</span>.  
 - Want to see people <span style="color:orange">**challenge their comfort zone**</span>.
 
@@ -88,13 +88,18 @@ My job is to engage and negotiate with teams to always strive for win-win situat
 - <span style="color:orange">**Review**</span> any notes made between the last 1:1 and the current 1:1 prior to the start of the meeting (in some cases).  
 - Start with a <span style="color:orange">**short synopsis of the last 1:1.**</span>   
 - Address any <span style="color:orange">**tasks**</span> that were made to either of us as a result of the last 1:1  
-- <span style="color:orange">**Mentoring and Coaching**</span> - bring me <span style="color:orange">**one thing you struggled with**</span> within the last period.   * Discussion of an <span style="color:orange">**architecture**</span> approach and issues with it. etc. With <span style="color:orange">**low performers, this will be the bulk of the meeting**</span>, for example reviewing the state of their PIP etc. Career Plan. Team issues and development. Process issues.  
-- <span style="color:orange">**Unstructured Time**</span> (<span style="color:orange">**bulk for HIPO**</span>). Usually encourage questions about the <span style="color:orange">**bigger picture, strategy**</span>, things happening outside of the organization. Also a great opportunity for feedback for myself as well. Joint projects. Joint concerns.  
+- <span style="color:orange">**Mentoring and coaching**</span> - bring me <span style="color:orange">**one thing you struggled with**</span> within the last period.
+  * Discussion of an <span style="color:orange">**architecture**</span> approach and issues with it. etc.  
+  * With <span style="color:orange">**low performers, this will be the bulk of the meeting**</span>, for example reviewing the state of their PIP etc.  
+  * Career Plan.  
+  * Team issues and development.  
+  * Process issues. 
+- <span style="color:orange">**Unstructured Time**</span> (<span style="color:orange">**bulk for HIPO**</span>). Usually encourage questions about the <span style="color:orange">**bigger picture, strategy**</span>, things happening outside of the organization. Also a great opportunity for feedback for myself as well. 
 
 <br/>
 
 <span style="color:blue">What have you **learned** as a manager?</span>  
-- Managing and <span style="color:orange">**synthesizing**</span> information for Executives  
+- Managing and <span style="color:orange">**synthesizing**</span> information for executives  
 - Work with team leads on ways to validate OE (tech-debt) - <span style="color:orange">**long term vs short term influencing**</span>  
 - <span style="color:orange">**Autonomy and not abdication**</span>
 
