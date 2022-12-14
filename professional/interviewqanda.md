@@ -1,7 +1,7 @@
 <span style="color:blue">How do you **motivate your team**?</span>  
 - (Cribbing from Primed to Perform, and Creativity by Ed Catmull)  
-- Positive: <span style="color:orange">**Play**</span> (enjoy the work, fit), <span style="color:orange">**Purpose**</span> (value generation), <span style="color:orange">**Potential**</span> (future capability, growth)  
-- Negative: <span style="color:orange">**Inertia**</span>, <span style="color:orange">**Economics**</span>, <span style="color:orange">**Emotion**</span>  
+* Positive: <span style="color:orange">**Play**</span> (enjoy the work, fit), <span style="color:orange">**Purpose**</span> (value generation), <span style="color:orange">**Potential**</span> (future capability, growth)  
+* Negative: <span style="color:orange">**Inertia**</span>, <span style="color:orange">**Economics**</span>, <span style="color:orange">**Emotion**</span>  
 - Set the bar (expectation), agree on goals - and clearly <span style="color:orange">**demonstrate trust**</span> that they will achieve it (Trust)  
 - Clearly and authentically <span style="color:orange">**invest in their growth and improvement**</span> (EQ)  
 - Connect the <span style="color:orange">**tactical**</span> work being done, to impact and business <span style="color:orange">**strategy**</span> (value generation)  
