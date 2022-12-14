@@ -16,6 +16,8 @@ main_nav_bar:
       url: /professional/book/book_review
     - title: "Blog"
       url: /professional/blog/
+    - title: "Interview Q&A"
+      url: /professional/interviewqanda/
   - title: "Projects"
     url: /projects/
   - title: "Collections"
