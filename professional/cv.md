@@ -30,11 +30,7 @@ paragraph_no_space_after: true
 
 <div class="aaye-main-cv-content-title"><span class="content-title-h1"><span>Summary</span></span></div>
 
-**<span style="color:black">Andrew Aye</span>** worked for 17 years in the video game industry, starting immediately after graduating from University. He graduated with degrees in Mechanical Engineering and Computer Science. In 2020 he completed a dual degree program and received Master of Business Administration degrees from Cornell University and Queens University. In the game industry, his first job was to help develop a video game engine to allow small games to be published on Real Arcade. Next, using his experience in Mechanical Engineering, he developed a robust and highly optimized physics simulation. Leveraging his knowledge as part of the core technology group, he created a new game engine focused on the tools and technologies explicitly needed for RPG developers. He spent a year with the incubation and pack-in launch title team for Kinect and, for the first time, had to fix issues within the Xbox operating system. The highlight of his time in the video game industry was taking charge of the engineering and project management for two Call of Duty projects. After a well-deserved break, he returned to Microsoft, working with the publishing and developer experience teams for the Xbox One X. He then decided to change industries. He went to Amazon to be the technical leader for North America Consumables leadership team. 
-
-<br/>
-
-**<span style="color:black">Andrew</span>** has had the privilege to work with many talented cross-function partners throughout his career. While working at Microsoft, he learned from *Andrew Goossen* about the history and future of DirectX development. While at Infinity Ward, he worked with *Jake Rowell* to develop the next-generation art pipeline for Call of Duty. He sparred with *Robert Field*, the lead engineer from the early days (before Activision's purchase) of the Infinity Ward Call of Duty code base. He learned the strict discipline required to develop an engine supporting a 60 FPS shooter. He worked closely with *Chris Avellone* on developing a new RPG experience. It is the personal experiences with his team and peers that he carries with him the most from his past experiences.
+**<span style="color:black">Andrew Aye</span>** worked for 17 years in the video game industry, starting immediately after graduating from University. He graduated with degrees in Mechanical Engineering and Computer Science. In 2020 he completed a dual degree program and received Master of Business Administration degrees from Cornell University and Queens University. In the game industry, his first job was to help develop a video game engine to allow small games to be published on Real Arcade. Next, using his experience in Mechanical Engineering, he developed a robust and highly optimized physics simulation. Leveraging his knowledge as part of the core technology group, he created a new game engine focused on the tools and technologies explicitly needed for RPG developers. He spent a year with the incubation and pack-in launch title team for Kinect and, for the first time, had to fix issues within the Xbox operating system. The highlight of his time in the video game industry was taking charge of the engineering and project management for two Call of Duty projects. After a well-deserved break, he returned to Microsoft, working with the publishing and developer experience teams for the Xbox One X. He then took the opportunity to test if his skill sets were transferable by taking a job at Amazon to be the technical leader on the North America Consumables leadership team. He is currently working at Meta in the Instagram Advertising organization.
 
 <br/>
 <br/>
@@ -42,6 +38,28 @@ paragraph_no_space_after: true
 <div class="aaye-main-cv-content-title"><span class="content-title-h1"><span>Curriculum Vitae</span></span></div>
 
 <div class="aaye-main-cv-content-title"><span class="content-title-h3"><span>Professional Experience</span></span></div>
+
+**Title:** **<span style="color:black">Engineering Manager</span>**
+
+**Company:** *Meta*
+
+**Industry:** Instagram Advertising
+
+**Dates of Employment:** 2022/04 - Current
+
+**Projects:** Instagram Advertising Delivery and Supply continuous development.
+
+**Summary:** Joined to support the team working on Instagram Delivery and Supply, with a focus to development platform based approaches.
+
+**Management Accomplishments:**
+* Too recent
+
+**Individual Accomplishments:**
+* No individual contributor contributions
+
+<br/>
+<hr/>
+<br/>
 
 **Title:** **<span style="color:black">Senior Director of Engineering</span>**
 
