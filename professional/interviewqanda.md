@@ -17,13 +17,19 @@ paragraph_no_space_after: true
 - Be available and support as needed
 
 
+
 <span style="color:blue">What **motivates you**?</span>  
 - Seeing others develop and grow to be successful, in part due to my interventions and support.
+
+
 
 
 <span style="color:blue">What are your **personal strengths**?</span>  
 - Flex between <span style="color:orange">**high-minded conceptual conceptual**</span> thinking and pragmatic <span style="color:orange">**execution**</span> mindsets  
 - Analytical and <span style="color:orange">**problem-solving**</span> skills
+
+
+
 
 
 <span style="color:blue">Most **difficult feedback**?</span>  
