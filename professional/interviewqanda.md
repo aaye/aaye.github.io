@@ -1,8 +1,17 @@
-<span style="color:blue">**How to motivate your team?**</span>
-TOMO: **Play** (enjoy the work, fit), **Purpose** (value generation), **Potential** (future capability, growth), **Inertia**, **Economics**, **Emotion**
+<span style="color:blue">How do you **motivate your team**?</span>
+
+Total Motivation:
+
+  Positive: **Play** (enjoy the work, fit), **Purpose** (value generation), **Potential** (future capability, growth)
+  
+  Negative: **Inertia**, **Economics**, **Emotion**
+
 Set the bar (expectation), agree on goals - and clearly **demonstrate trust** that they will achieve it (Trust)
+
 Clearly and authentically **invest in their growth and improvement** (EQ)
+
 Connect the **tactical** work being done, to impact and business **strategy** (value generation)
+
 Be available and support as needed
 
 <span style="color:blue">What motivates you?</span>
