@@ -17,11 +17,11 @@ paragraph_no_space_after: true
 - Be available and support as needed
 
 
-<span style="color:blue">What motivates you?</span>  
+<span style="color:blue">What **motivates you**?</span>  
 - Seeing others develop and grow to be successful, in part due to my interventions and support.
 
 
-<span style="color:blue">**Personal Strength**</span>  
+<span style="color:blue">What are your **personal strengths**?</span>  
 - Flex between <span style="color:orange">**high-minded conceptual conceptual**</span> thinking and pragmatic <span style="color:orange">**execution**</span> mindsets  
 - Analytical and <span style="color:orange">**problem-solving**</span> skills
 
@@ -42,7 +42,7 @@ paragraph_no_space_after: true
 - In terms of specific steps, taking a step back and giving people time to cool down. Look at the communication, and see what type of <span style="color:orange">**communications gaps**</span> may be present (or assumptions made). 
 
 
-<span style="color:blue">Describe a few of your **peers at your company** and what type of relationship you have with each of them.</span>  
+<span style="color:blue">Describe a few of your **peers** at your company and what type of **relationship** you have with each of them.</span>  
 Initially, I would describe peers in three groups: <span style="color:orange">**reporting peers**</span> (sharing the same manager), <span style="color:orange">**role peers**</span> (people in the same role and level), and <span style="color:orange">**project peers**</span> (people with similar responsibility/accountability on a project). In the <span style="color:orange">**reporting**</span> space, my relationship was very much a <span style="color:orange">**consulting and inform**</span> role. I had regular 1:1s with all of them (monthly) to discuss business issues, changes to tech strategy, emergent issues outside of the team, internal sentiment of the tech team, technical goals, etc. <span style="color:orange">**Role and Project**</span> peers tend to be more of a <span style="color:orange">**Responsible**</span> role - sharing of effort to achieve a goal.
 
 
@@ -71,7 +71,7 @@ My job is to engage and negotiate with teams to always strive for win-win situat
 - Want to see people <span style="color:orange">**challenge their comfort zone**</span>.
 
 
-<span style="color:blue">**Structure of 1:1s**</span>  
+<span style="color:blue">What is the **structure of your 1:1s**?</span>  
 - <span style="color:orange">**Review**</span> any notes made between the last 1:1 and the current 1:1 prior to the start of the meeting (in some cases).  
 - Start with a <span style="color:orange">**short Synopsis of the last 1:1.**</span>   
 - Address any <span style="color:orange">**Tasks**</span> that were made to either of us as a result of the last 1:1  
@@ -79,11 +79,13 @@ My job is to engage and negotiate with teams to always strive for win-win situat
 - <span style="color:orange">**Unstructured Time**</span> (<span style="color:orange">**bulk for HIPO**</span>). Usually encourage questions about the <span style="color:orange">**bigger picture, strategy**</span>, things happening outside of the organization. Also a great opportunity for feedback for myself as well. Joint projects. Joint concerns.  
 
 
-<span style="color:blue">**Learning lessons as a Manager**</span>  
+<span style="color:blue">What have you **learned** as a manager?</span>  
 - Managing and <span style="color:orange">**Synthesizing**</span> information for Executives  
 - Work with team leads on ways to validate OE (tech-debt) - <span style="color:orange">**Long term vs short term influencing**</span>  
 - <span style="color:orange">**Autonomy and not abdication**</span>
 
 
-<span style="color:blue">**Hire an Engineer**</span>  
+<span style="color:blue">What do you look for when **hiring** an engineer.</span>  
 - Strong fundamentals, willingness to learn, desire to grow and learn, humility, behaviours and principles
+
+
