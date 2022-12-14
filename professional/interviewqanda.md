@@ -7,6 +7,8 @@ paragraph_no_space_after: true
 
 <div class="aaye-main-cv-content-title"><span class="content-title-h1"><span>Interview Questions and Answers</span></span></div>
 
+<br/>
+
 <span style="color:blue">How do you **motivate your team**?</span>  
 - (Cribbing from Primed to Perform, and Creativity by Ed Catmull)  
   * Positive: <span style="color:orange">**Play**</span> (enjoy the work, fit), <span style="color:orange">**Purpose**</span> (value generation), <span style="color:orange">**Potential**</span> (future capability, growth)  
@@ -57,6 +59,7 @@ Initially, I would describe peers in three groups: <span style="color:orange">**
 <span style="color:orange">**Office politics**</span> to me is a vague term with a <span style="color:orange">**negative connotation**</span> that is used in many situations to associate <span style="color:orange">**blame**</span> for a road block or failure. The primary drivers are natural outcomes of (1) the necessary <span style="color:orange">**human interaction**</span> and communication between teams (2) <span style="color:orange">**limited resources**</span> in the organization and a need to achieve a goal for which teams have <span style="color:orange">**different priorities**</span> (3) <span style="color:orange">**intentional bias**</span> of a team to optimize for the benefit of team’s perceived value (local optimization) rather than globally. The first two is natural and requires coaching to help improve outcomes. The third needs investigation as it is the corrosive (and truly negative) form of this phrase.  
 My job is to engage and negotiate with teams to always strive for win-win situations.
 
+<br/>
 
 <span style="color:blue">How do you manage a **Low Performer**</span>  
 - Provide (or make sure direct manager is) <span style="color:orange">**consistent critical feedback and clarify expectations**</span>  
