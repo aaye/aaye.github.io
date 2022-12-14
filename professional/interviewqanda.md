@@ -1,3 +1,12 @@
+---
+layout: default
+include_header: true
+title: Professional - Interview Questions and Answers
+paragraph_no_space_after: true
+---
+
+<div class="aaye-main-cv-content-title"><span class="content-title-h1"><span>Interview Questions and Answers</span></span></div>
+
 <span style="color:blue">How do you **motivate your team**?</span>  
 - (Cribbing from Primed to Perform, and Creativity by Ed Catmull)  
   * Positive: <span style="color:orange">**Play**</span> (enjoy the work, fit), <span style="color:orange">**Purpose**</span> (value generation), <span style="color:orange">**Potential**</span> (future capability, growth)  
