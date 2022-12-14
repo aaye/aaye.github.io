@@ -51,7 +51,7 @@ paragraph_no_space_after: true
 <br/>
 
 <span style="color:blue">Describe a few of your **peers** at your company and what type of **relationship** you have with each of them.</span>  
-Initially, I would describe peers in three groups: <span style="color:orange">**reporting peers**</span> (sharing the same manager), <span style="color:orange">**role peers**</span> (people in the same role and level), and <span style="color:orange">**project peers**</span> (people with similar responsibility/accountability on a project). In the <span style="color:orange">**reporting**</span> space, my relationship was very much a <span style="color:orange">**consulting and inform**</span> role. I had regular 1:1s with all of them (monthly) to discuss business issues, changes to tech strategy, emergent issues outside of the team, internal sentiment of the tech team, technical goals, etc. <span style="color:orange">**Role and Project**</span> peers tend to be more of a <span style="color:orange">**Responsible**</span> role - sharing of effort to achieve a goal.
+Initially, I would describe peers in three groups: <span style="color:orange">**reporting peers**</span> (sharing the same manager), <span style="color:orange">**role peers**</span> (people in the same role and level), and <span style="color:orange">**project peers**</span> (people with similar responsibility/accountability on a project). In the <span style="color:orange">**reporting**</span> space, my relationship was very much a <span style="color:orange">**consulting and inform**</span> role. I had regular 1:1s with all of them (monthly) to discuss business issues, changes to tech strategy, emergent issues outside of the team, internal sentiment of the tech team, technical goals, etc. <span style="color:orange">**role and project**</span> peers tend to be more of a <span style="color:orange">**responsible**</span> role - sharing of effort to achieve a goal.
 
 <br/>
 
@@ -86,16 +86,16 @@ My job is to engage and negotiate with teams to always strive for win-win situat
 
 <span style="color:blue">What is the **structure of your 1:1s**?</span>  
 - <span style="color:orange">**Review**</span> any notes made between the last 1:1 and the current 1:1 prior to the start of the meeting (in some cases).  
-- Start with a <span style="color:orange">**short Synopsis of the last 1:1.**</span>   
-- Address any <span style="color:orange">**Tasks**</span> that were made to either of us as a result of the last 1:1  
-- <span style="color:orange">**Mentoring and Coaching**</span> - bring me <span style="color:orange">**one thing you struggled with**</span> within the last period.   * Discussion of an <span style="color:orange">**architecture**</span> approach and issues with it. etc. With <span style="color:orange">**Low Performers, this will be the bulk of the meeting**</span>, for example reviewing the state of their PIP etc. Career Plan. Team issues and development. Process issues.  
+- Start with a <span style="color:orange">**short synopsis of the last 1:1.**</span>   
+- Address any <span style="color:orange">**tasks**</span> that were made to either of us as a result of the last 1:1  
+- <span style="color:orange">**Mentoring and Coaching**</span> - bring me <span style="color:orange">**one thing you struggled with**</span> within the last period.   * Discussion of an <span style="color:orange">**architecture**</span> approach and issues with it. etc. With <span style="color:orange">**low performers, this will be the bulk of the meeting**</span>, for example reviewing the state of their PIP etc. Career Plan. Team issues and development. Process issues.  
 - <span style="color:orange">**Unstructured Time**</span> (<span style="color:orange">**bulk for HIPO**</span>). Usually encourage questions about the <span style="color:orange">**bigger picture, strategy**</span>, things happening outside of the organization. Also a great opportunity for feedback for myself as well. Joint projects. Joint concerns.  
 
 <br/>
 
 <span style="color:blue">What have you **learned** as a manager?</span>  
-- Managing and <span style="color:orange">**Synthesizing**</span> information for Executives  
-- Work with team leads on ways to validate OE (tech-debt) - <span style="color:orange">**Long term vs short term influencing**</span>  
+- Managing and <span style="color:orange">**synthesizing**</span> information for Executives  
+- Work with team leads on ways to validate OE (tech-debt) - <span style="color:orange">**long term vs short term influencing**</span>  
 - <span style="color:orange">**Autonomy and not abdication**</span>
 
 <br/>
