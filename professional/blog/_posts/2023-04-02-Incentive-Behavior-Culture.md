@@ -26,7 +26,7 @@ The observed behaviour is that employees spend significant time working outside 
 
 - **Gamification:** The above incentive is primarily personal and based on human biology. It is not strictly able to be gamified (assuming the company is not using illegal pharmaceuticals). This assumes that the measure is delivered results (features, tools, etc.). If the company attempts to use time measurements (amount of time spent in the office) then the methods to gamify the measure is obvious.
 
-- **Issue and Control:** Like any addictive disorder, employees can crave the recognition and reward loop to the detriment of their health. 
+- **Issue and Control:** Like any addictive disorder, employees can crave the recognition and reward loop to the detriment of their health. It is necessary to place limits on the amount of work that you should allow or support an employee to do for the company.
 
 **Incentive #2:** Doing more work leads to more experience in the field, potentially leading to more significant opportunities in the future. Building up more skills in your area of work and broadening your institutional expertise and understanding will make it easier for you to take on larger projects and drive more significant impact. The result is the likelihood of faster promotions and rewards.
 
