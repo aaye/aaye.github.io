@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: Incentives, Behaviours, Culture: Post #1
+title: Incentives, Behaviours, Culture: Post 1
 date: 2023-04-03
 categories: [management]
 ---
