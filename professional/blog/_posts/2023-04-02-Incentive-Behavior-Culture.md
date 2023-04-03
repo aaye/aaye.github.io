@@ -24,9 +24,9 @@ The observed behaviour is that employees spend significant time working outside 
 
 **Incentive #1:** Employees enjoy their job and want to keep doing the work. There is satisfaction and a positive hormonal response for doing something you enjoy and getting recognized for the result. Software engineers love solving problems and coding. They will naturally want to keep engaging in the work as it is a reward in itself, and for many, there is an immediate feedback loop when the changes go to a customer.
 
-**Gamification:** The above incentive is primarily personal and based on human biology. It is not strictly able to be gamified (assuming the company is not using illegal pharmaceuticals). This assumes that the measure is delivered results (features, tools, etc.). If the company attempts to use time measurements (amount of time spent in the office) then the methods to gamify the measure is obvious.
+> **Gamification:** The above incentive is primarily personal and based on human biology. It is not strictly able to be gamified (assuming the company is not using illegal pharmaceuticals). This assumes that the measure is delivered results (features, tools, etc.). If the company attempts to use time measurements (amount of time spent in the office) then the methods to gamify the measure is obvious.
 
-**Issue and Control:** Like any addictive disorder, employees can crave the recognition and reward loop to the detriment of their health. 
+> **Issue and Control:** Like any addictive disorder, employees can crave the recognition and reward loop to the detriment of their health. 
 
 **Incentive #2:** Doing more work leads to more experience in the field, potentially leading to more significant opportunities in the future. Building up more skills in your area of work and broadening your institutional expertise and understanding will make it easier for you to take on larger projects and drive more significant impact. The result is the likelihood of faster promotions and rewards.
 
