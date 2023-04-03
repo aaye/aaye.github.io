@@ -33,7 +33,7 @@ The observed behaviour is that employees spend significant time working outside 
 - **Gamification:** The typical way to gamify this incentive is to spread yourself thin across as many work efforts as possible. It allows you to learn about many work streams concurrently while contributing little impact (effort) to each work stream. It makes it appear that you are driving more impact than in reality. If you do grow and learn through this process, it is essentially leeching off others. 
 
 - **Issue and Control:** People who are driven and want to improve themselves are good for the company. However, working in a new area may take an employee longer than one already familiar with the space (ramp-up time). We need to ensure that we do not penalize people for learning (as this builds their value for the organization) and do not confuse increased work time with increased productivity. Increased work time is not sustainable and thus is not business value accretive in the long term. Increased productivity (more work done in the same time) does have long-term value. 
-- 
+
 The primary control is to ensure that learning pads are included in tasks for people to discover and learn a new area. The organization should limit the number of tasks that someone can execute based on a realistic measure of the expected level of effort for the work. Alternatively, clarify that extra work will not lead to compensation awards. 
 
 **Incentive #3:** Doing work quicker will result in more work. Alternatively, work completed at a lower rate than the average rate of people at your level will result in a bad rating. Positive outliers can expect compensation rewards and negative outliers will likely be terminated.
