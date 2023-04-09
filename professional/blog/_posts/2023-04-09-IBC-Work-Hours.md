@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: Incentives, Behaviours, Culture #2 - Work Hours
+title: Incentives, Behaviours, Culture - Post 2 - Work Hours
 date: 2023-04-09
 categories: [management]
 ---
