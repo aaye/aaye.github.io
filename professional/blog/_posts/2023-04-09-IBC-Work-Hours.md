@@ -16,6 +16,8 @@ Suppose a company incentivizes additional work by an employee and has no process
 
 This cycle is how most tech companies create a crunch culture and excessive work hours while claiming to be dedicated to a work-life balance. They allow these natural incentives to drive the virtuous cycle forcing employees to do excessive work hours and manage out those who do not want to commit to the needed levels of work. Any company that does not monitor and limit the total work effort by an employee is hoping to see this cycle play out.
 
+<!--more-->
+
 ## Post
 
 The observed behaviour is that employees may spend significant time working outside of paid hours. Some are working so many hours they are in danger of burning out. An employee that burns out and disengages from the company (either by quiet quitting or leaving the company) robs the organization of that person's productivity, creativity, and institutional knowledge. 
