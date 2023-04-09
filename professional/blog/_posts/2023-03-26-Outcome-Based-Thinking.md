@@ -7,6 +7,8 @@ categories: [management]
 Over the last decade, as I have been responsible for establishing or improving employee performance management frameworks, I have spent time thinking about the proper criteria and methods. In 2017, when I joined Amazon, I was impressed with the diligence that Sunny Jain (manager and VP for NA Consumables) and the entire business team spent on understanding and proving the causal links between a business input and the resulting output. In a 1:1 with Sunny, he explained that at Amazon, the business was focused on setting goals on business inputs (controllable and measurable). I heard the same message during my MBA, where the professor discussed the evolution of modern business management to focus on inputs. I took these learnings forward into my goal-setting considerations in performance management.
 Let's bring this down to concrete examples (that have been sanitized and are symbolic of cases I have seen or discussed in the industry):
 
+<!--more-->
+
 Example A
 Engineer A makes a change that yields an incremental revenue increase of $100,000 or 1% of existing revenue.
 Engineer B makes a change that yields an incremental revenue increase of $10,000 or 0.1% of existing revenue.
