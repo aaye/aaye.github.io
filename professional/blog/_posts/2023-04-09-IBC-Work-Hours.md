@@ -11,7 +11,9 @@ This post continues my series on Incentives -> Behaviours -> Culture that I star
 ## Summary
 
 This post covers natural and artificial incentives for employees to work outside their paid hours. When managed well, it can be healthy for the company and the employee. In most real-world cases, it is handled in a way to drive employees to perform the maximum amount of work for the same compensation or a reward that is significantly less to the company than the fully burdened cost of an employee (i.e. the company value generation per dollar, including the bonuses, is increased dramatically through this additional work).
+
 Suppose a company incentivizes additional work by an employee and has no process to limit the total work done longitudinally. In that case, there will be a rising tide issue. Everyone will be driven to ensure they exceed the mean/median for their role and level to reduce the risk of job loss. The result will be a constant upward pressure on expectations. These actions create a feedback loop of employees needing to do even more work to keep up. Repeat and rinse. 
+
 This cycle is how most tech companies create a crunch culture and excessive work hours while claiming to be dedicated to a work-life balance. They allow these natural incentives to drive the virtuous cycle forcing employees to do excessive work hours and manage out those who do not want to commit to the needed levels of work. Any company that does not monitor and limit the total work effort by an employee is hoping to see this cycle play out.
 
 ## Post
