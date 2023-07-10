@@ -4,62 +4,68 @@ include_header: true
 title: Management Philosophy
 ---
 # Management Philosophy
-Our first taste of management is typically rooted in team class projects for school (high school or earlier, and university). My first professional taste of management was in my first job out of university in 2001. I had a team of five people reporting to me (after the original manager left the company). Over the years, I have managed teams and projects ranging from small team initiatives to multi-site multi-national projects encompassing thousands of people. I have built teams up from near-zero and have come into well-formed and normed teams. Early in my career, I treated management as a secondary responsibility. I was the primary individual contributor and was accountable for writing a large amount of code and setting the standard for the team.
 
-Managing was how I was able to scale myself to get more things done. I did not treat it with the same discipline I applied to my software engineering. I did little reading on the subject and had no formal training. I made all of the mistakes. I never had a mentor as I struggled to learn how to be a leader and manager. I received excellent advice from many sources (occasionally from my manager, but more often from team members and peers). The one thing I felt has saved me over the years was the childhood advice that my parents taught me. Treat other people at least as well as you would want to be treated. Make sure to be self-critical and always look back and think of ways to improve, be better, and avoid past mistakes. With these guideposts, I was able to teach myself along the way and avoid repeating mistakes and bad practices. Later in my career, once I committed to being a manager exclusively,  I started to apply the same rigour to this discipline as I had when I was a software engineer. I found that the books I was reading reflected many of those same hard-won (and sometimes costly) lessons that I had learned. I continue to read to develop thoughts, ideas, and approaches to provide a good environment for my teams, better understand people, and make our careers and our time together a value-adding experience.
+## Personal Journey as a Manager
 
-The following are some of the principles of management that I have formed. Most should be familiar based on your personal experience, or based on literature. Thankfully, the topic of interest continues to revolve around the same set of purposes and audience. Ideas may change, over the decades, as to the best implementation of the necessary environment to encourage the best results. However, the optimization functions tend to revolve around goals of increasing productivity, innovation, and retention. 
+Our first taste of management is typically rooted in class projects done in high school and university. My first professional management position was my first job out of university in 2001. A team of five people reported to me after the original manager left the company. Over the years, I have managed teams and projects ranging from small functional team initiatives to multi-site multi-national cross-functional projects encompassing thousands of people. I have built teams up from near zero and have come into well-formed and normed groups. Through this personal experience, the core principles I developed have stayed true and continue to be honed and improved.
 
-It is interesting to note that the reason we may have so much change in approaches to manage and motivate employees is not only due to insights and development in the relevant sciences, but also because the people involved (the employees) keep changing. The management techniques that worked well in the 1980s resonated with the majority of the workforce at that time. Later in the early 2000s, we had to change our approach due to the change in generational thinking. This is not a single point in time change where we pivot. It is about making sure that your employees' principles, feelings, and personal experience are incorporated into (and are part of) your managerial technique.
+I learned how to manage through the hard knocks of day-to-day learning and diligent application of self-awareness. I did not treat managing with the same discipline I applied to software engineering. I did little reading on the subject and had no formal training. *I made all of the mistakes*. I did not have a mentor as I struggled to learn to be a leader and manager. I received excellent advice from many sources, occasionally from my manager but more often from team members and peers. The one thing that has saved me over the years was the childhood advice that my parents taught me. **Treat other people at least as well as you would want to be treated**. Make sure to be self-critical and always look back and think of ways to improve, be better, and avoid past mistakes. With these guideposts, I could teach myself and avoid repeating mistakes and bad practices. 
 
-The following is a work in progress
+It was not until 2017 that I approached the discipline of management through an academic lens. This approach started a growth phase as I compared my life experiences and management philosophy to other people's accounts and academic literature. The books I read reflected many of those same hard-won (and sometimes costly) lessons I had learned. One of the primary lessons that I coach others when starting their journey in management is to learn from others as much as possible so that they don't repeat the same evils we did in our past. I continue reading to develop thoughts, ideas, and approaches to provide a good environment for my teams, better understand people, and make our careers and time together a value-adding experience.
+
+The second lesson is that the actions that make for a great individual contributor or often the exact opposite of those that make for a great manager. Therefore, it is necessary to realize that you must focus on your management skills as equal and completely differentiated from any existing skills that you have honed in your career. Early in my development, I treated management as a secondary responsibility. I was a primary individual contributor and was accountable for writing a large amount of code and setting the standard for the team. Because of this mindset, I did not proactively develop the framework and discipline needed for managing and growing a team. I instead came to it reactively through self-reviews of my performance. To those I  managed in my early years, I have a lot of respect and thanks for their patience and understanding as I fumbled my way through self-learning. I continue to be thankful to everyone I work with as I adapt, grow and learn.
+
+## Principles Introduction
+
+The following are some of the principles of management that I have formed. These principles are a way to classify a formal intent toward establishing cultural norms and personal actions. They are directional and create a framework that should be used with an open mindset. Each will include critical questions and starting thoughts taken from others that underlie the basic principle.
+
+Specific approaches or actions to manifest these principles need to consider the cultural and generational experiences of the individual. These differences are the primary reason there can never be a simple checklist of actions. Instead of learning what to do, it is important to absorb the intent, desired outcome and the "why" of the principle.
+
+The following is a work in progress.
 
 # Goals
-1. Focus on and development each individual employee along their chosen career path
+1. Focus on and develop each individual employee along their chosen career path
 
-# Principles
-## Agency
+## Principles
+### Trust
 
-- The ability to make a decision, and inform the direction of the team and organization
+Trust is something that comes up a lot when talking about organizational culture. The context is usually unidirectional: how can we get employees to trust us? How can I get my manager to trust me? I have never heard the question raised: How can we be more trustworthy? The focus of these principles is how to manifest these qualities for yourself. Lead by example. We will discuss how to **be** trustworthy and, through that action, set the bar of expectation for others.
 
-*For a period time I worked as a software engineer in a place/group where all of the work was decided in a command control method. I would come into work, goto my task management dashboard, check the next (or current task) and work on it. The tasks were often contradictory as they came from different teams with competing execution plans. It was some of the worst time I spent as an engineer. I was complacent, uncaring, and completely disenfranchised. I made a promise to myself that I would not treat others in the same way.*
+Embedded in this discussion is an assumption of the definition of trust. Take a second and write down what that word means for you. Often the definition is described as "the behaviours exhibited by a person when not being directly monitored." That definition is often used based on the context of the conversation: can we trust that an employee will complete the work on time? However, it is a partial definition. We also often ask if an organization will **trust** leadership during a period of change. A rather interesting definition is suggested by [Rachel Botsman](https://rachelbotsman.com/sketches/trust-definition/): trust is a confident relationship with the unknown. I like this definition because the tension in trust is the uncertainty we all experience with the unknown.
 
-This principle is tightly coupled with trust. To give people agency, you have to trust that they will make good decisions. Not necessarily the same decisions that you would make, but decisions that align with the team, organization, and company goals. They need to have the room to make decisions, be wrong, and learn and grow from those mistakes. This only works when they have the support of their manager and team, and are supported (and taught) in taking the right risks. 
+Quoting from Botsman's work:
+> Trustworthiness may seem elusive, but it encompasses two core traits: capability and character.
+> Evaluating capability is based on whether a leader or organization is competent, reliable, dependable, and can solve problems. Displaying capability means showing that a person or company has the skills, knowledge, time, and resources to do what it says it'll do – and do it well. This also means being honest when falling short.
+> Just as important is evaluating the character, which enables people to trust a leader or organization based on the the intentions, motives, and alignment. Botsman believes integrity is paramount in building trustworthiness.
 
-This principle is also tightly coupled to transparency. How can people make the right decisions (both short and long term) without the right information? Decisions made in a vacuum are no better than random chance. Supporting your team means giving them the right tools (in this case, information) to make these decisions. In the same way, it is not sufficient to only provide them with agency in their immediate area of control. Mechanisms to provide the ability for people to influence and inform the larger context are also needed. In general, we call this a bottom-up organization.
+#### Trust - Manager and Organizational Transparency
 
-## Transparency
+***Counter-Example from Life Experience***
+I once worked at a place that, for a time, I referred to as a mushroom farm. The employees were kept in the dark and fed horse shit. Nobody was motivated, empathy among employees was near-zero, and there was no sense of purpose. There was zero faith in a secure future. The impact on people's personal lives was extremely negative. I made a promise to myself that I would never treat my organization in the same way.
 
-- Do what you say, say what you do
+**Understandable Decision-Making**
+Take every opportunity to explain the steps taken to make a decision. These should be rooted in your personal management principles. People must understand your thinking and see consistency in your decision-making process. When there is an exception, be careful to articulate the reason. Be ruthless in minimizing all exceptions. If you can't stick to your principles, there can be no expectation that others will stick to them.
+In uncertain or unknown circumstances, employees want to feel confident that they can predict your (manager, organization) behaviour. 
 
-- Open book and door policies
+**Information Sharing**
+One of the easiest ways to feel in control of a group is when you directly control access to information and are the only person who can see all of it. However, with the shared context of information, the members of your organization will find it easier to trust you as they will be able to understand the underlying principles of your actions.
+When deciding what information to share and how to share it, these are the tenets that I work with:
+The best organization is one where each individual can make the right decision for the company. The individual can only do so if everyone can access the same information.
+Even a small organization generates too much information for any single person to digest. Information should be made easily available. Knowledge transfer, accuracy, and accessibility are all KPIs for the organization.
+Key updates from an organization's information stream need to be synthesized and shared broadly. The summaries allow an individual to know when to dive deeper to learn more about a subject of interest.
 
-*I once worked at a place, that for a time, I referred to as a mushroom farm. (The employees were kept in the dark and fed horse shit.) Nobody was motivated, empathy among employees was near-zero, and there was no sense or purpose. There was zero faith in a secure future. The spill out to people’s personal lives was extremely negative. I made a promise to myself that I would never treat my organization in the same way.*
+**Open Door Policy: Time and Access are a currency**
+For people to understand your decision-making and thinking process, it is necessary to be able to invest time into explaining and coaching them. One-on-one meetings are the best way to transfer knowledge as it allows for dialogue, questions and answers. It serves as a bidirectional knowledge transfer as you understand their perspective better.
+However, this is not a scaleable process. It can work with small teams and will quickly break down as the depth of the reporting chain grows. Thus, it is necessary to push this process down and make it ubiquitous for all managers and leaders. Then provide a more scaleable mechanism to raise questions and concerns.
 
-Open Book Policy: It is a common topic in my first one-on-one and the first time I address a team or organization that I touch on this topic. I will tell people that any information I can legally share will always be available to those who ask. My organization will always look for ways to share information (cross-team decisions and actions) and the bigger picture (synthesizing news from my report chain). However, an information flow can quickly become overwhelming and inefficient (people spend too much time trying to know everything, or tune out everything because it is too much to absorb). Thus, we are always looking at ways to strike the balance of providing the right synthesization of critical information. Since this will be targeted for the average set of expectations, we will also strive to make this information available through open documentation (wiki, meetings notes, etc.) as well as question and answer time through open forums and open office hours.
+#### Trust - Respect, Autonomy, and Agency
 
-Open Door Policy: One on one meetings are a great way to pass on best practices and to learn things about your organization that would not bubble up in any other way. Having a mechanism so that anyone can book some time and ask questions is a great value add for both you and the employee. 
+It is important that a manager delegates but does not abdicate responsibility. 
 
-## Respect and Trust
+***Counter-Example from Life Experience***
+For a period time I worked as a software engineer in a place/group where all of the work was decided in a command control method. I would come into work, goto my task management dashboard, check the next (or current task) and work on it. The tasks were often contradictory as they came from different teams with competing execution plans. It was some of the worst time I spent as an engineer. I was complacent, uncaring, and completely disenfranchised. I made a promise to myself that I would not treat others in the same way.
 
-- Respect: Basic human decency, and appreciation of the time and effort put towards their work.
-
-- Trust But Verify: In this case, set the goal, review the plan, and have a regular mechanism for reporting progress
-
-My personal experience as an employee is that this is one of the hardest principles for managers to adhere in action (though not in words). “Hire the best, and let them do the job.” To truly commit to this principle, you have to be able to step back, take your own ego out of the picture, and truly commit to growing your impact through others. I am not advocating the abdication of your responsibilities (delegation without verification). You do have to let your directs and the wider organization execute based on the plans, goals, and culture of the organization. 
-
-## Feedback
-
-- Mentor, coach, and grow every team member
-
-- Show appreciation
-
-- Teach not what you would do, but how you decided what you would do
-
-Mentoring: Providing guidance and feedback based on being a subject matter expert in the domain.
-
-Coaching: Providing guidance and feedback for the other person to self-actualize change and growth.
-
-The goal is force multiplication - you want your organization to work in such a way that it is predictable and dependable.
-
+**Excerpt from Harvard Business Review**
+Stepping in to help your team isn't always helpful. Particularly when you're delegating work, offering too much hands-on assistance or direction can actually backfire and undermine your team's long-term learning and development. How can you take a more hands-off approach to delegation instead? Start small by identifying low-stakes tasks to hand off to an employee. You want to leave room for mistakes that will lead to their growth—not mistakes that could tarnish their reputation or jeopardize the team's success. Then adopt a mindset of patience and curiosity. This doesn't mean tolerating poor effort or carelessness, but rather understanding that your employee may take some time to learn this new skill—and they could end up developing their own approach in the process. Lean into the discomfort you feel watching them experiment, encounter challenges, and falter. Resist the urge to take the work back, do it for them, or point out the solution before they've identified it. Tell yourself: "I was allowed to struggle, and that's how I built confidence in my skills. So I'm going to give my employee the same gift to solve the problem on their own." Remember: Delegating effectively means shifting your mindset away from doing to leading.
+This tip is adapted from "To Help Your Team Grow, Give Them Space to Struggle," by Kelli Thompson
 
