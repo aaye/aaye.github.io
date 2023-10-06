@@ -11,6 +11,7 @@ Though it does cause some non-trivial amount of padding, I do encourage being mi
 
 https://en.cppreference.com/w/cpp/thread/hardware_destructive_interference_size
 
+```
 __cpp_lib_hardware_interference_size = 201703
 hardware_destructive_interference_size == 64
 hardware_constructive_interference_size == 64
@@ -39,3 +40,4 @@ twoCacheLinerThread() spent 90.09 ms
 Average T2 time: 89 ms
  
 Ratio T1/T2:~ 6.16
+```
