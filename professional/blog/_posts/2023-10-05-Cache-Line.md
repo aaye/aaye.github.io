@@ -7,7 +7,7 @@ categories: [management]
 # Sharing a Cache Line with Atomic Variables - When to be Worried?
 
 In my Engine (see Projects), for the longest time, I have adopted a practice of being aware of sharing data in a cache line where an atomic operation is also expected to occur. A great example is the common practice of using an atomic variable as a reference count for an object. This always seemed like a bad idea, as any atomic operation will likely cause a cache flush, which would mean that any nearby data operation would cause a cache miss and stall for the time to reacquire the data from the backing store. Working on the code base today, I hit this nugget, demonstrating that my instincts held up.
-Though it does cause some non-trivial amount of padding, I do encourage being mindful of how atomic variables are packed into structures (or global).
+Though it does cause some non-trivial amount of padding, I do encourage being mindful of how atomic variables are packed into structures (or global). Also, when I have some time, I will run some tests on both X64 and ARM to see if these numbers are sincere. I am hopeful :)
 
 https://en.cppreference.com/w/cpp/thread/hardware_destructive_interference_size
 
